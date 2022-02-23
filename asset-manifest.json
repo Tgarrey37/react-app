@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.beb17a02.css",
+    "main.js": "/react-app/static/js/main.ae6c5955.js",
+    "static/media/IMG_0101.jpeg": "/react-app/static/media/IMG_0101.d28005062b76da36f4b3.jpeg",
+    "static/media/IMG_0303.jpg": "/react-app/static/media/IMG_0303.d9a9ec5e268762798292.jpg",
+    "static/media/fa-solid-900.svg": "/react-app/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/react-app/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/fa-solid-900.eot": "/react-app/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/react-app/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/social.png": "/react-app/static/media/social.e0e0777212a25d5a37ac.png",
+    "static/media/fa-regular-400.svg": "/react-app/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/react-app/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/react-app/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/react-app/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/Taylor-Garrey-Resume.pdf": "/react-app/static/media/Taylor-Garrey-Resume.c1e8f66e6327bbb80a11.pdf",
+    "static/media/weather-dashboard.png": "/react-app/static/media/weather-dashboard.4259036f8ff7a8d2f1df.png",
+    "static/media/fa-brands-400.woff": "/react-app/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/react-app/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/react-app/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/baby-yelp.png": "/react-app/static/media/baby-yelp.cbf23eb72c7f647808ba.png",
+    "static/media/team-profile-generator.png": "/react-app/static/media/team-profile-generator.31459f11f812ef929629.png",
+    "static/media/last-minute-trip-planner.png": "/react-app/static/media/last-minute-trip-planner.5bdb224892e428ecf568.png",
+    "static/media/scheduler.png": "/react-app/static/media/scheduler.c3c9b4313e56d083f90c.png",
+    "static/media/fa-regular-400.eot": "/react-app/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/react-app/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/react-app/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/react-app/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/react-app/index.html",
+    "main.beb17a02.css.map": "/react-app/static/css/main.beb17a02.css.map",
+    "main.ae6c5955.js.map": "/react-app/static/js/main.ae6c5955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb17a02.css",
+    "static/js/main.ae6c5955.js"
+  ]
+}
