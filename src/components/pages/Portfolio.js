@@ -24,7 +24,7 @@ export default function Portfolio() {
       alt: "Last Minute Trip Planner",
       src: TripPhoto,
       description:
-        "If you are taking a last minute trip this is the perfect application for you !",
+        "If you are taking a last minute trip this is the perfect application for you ! You can check to see popular restaurants, sights, and activities for your trip.",
       tech: "Html, CSS JavaScript.",
       link: "https://tgarrey37.github.io/super-team-project/",
       github: "https://github.com/Tgarrey37/super-team-project",
@@ -33,7 +33,7 @@ export default function Portfolio() {
       name: "Baby Yelp",
       alt: "Baby Yelp",
       src: YelpPhoto,
-      description: "Add a Restaurant and leave a review !",
+      description: "Add a Restaurant and leave a review ! You can review the restaurants you like or the ones that you dont",
 
       tech: "JavaScript, Node.js, Sequelize, Handlebars.js, Parsley.js, MySQL, Express.js, bcrypt, CSS.",
       link: "https://baby-yelp.herokuapp.com/",
@@ -43,7 +43,7 @@ export default function Portfolio() {
       name: "Weather Dashboard",
       alt: "Weather Dashboard",
       src: WeatherPhoto,
-      description: "Any city weather for the next five days!",
+      description: "Any city weather for the next five days! It will show you specific data statistics as well for the weather",
       tech: "Html, CSS JavaScript, Weather API.",
       link: "https://tgarrey37.github.io/weather-dashboard/",
       github: "https://github.com/Tgarrey37/weather-dashboard",
@@ -95,7 +95,7 @@ export default function Portfolio() {
                     target="_blank"
                     className="btn btn-primary col m-3"
                   >
-                    Github
+                    GitHub
                   </Card.Link>
                   <Card.Link
                     href={project.link}
